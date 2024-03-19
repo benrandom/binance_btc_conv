@@ -14,8 +14,6 @@ The Binance BTC Converter is a tool designed to provide real-time conversion of 
 
 2. **Multi-Asset Support:** Supports conversion for a wide range of cryptocurrencies and assets available on the Binance exchange.
 
-3. **User-Friendly Interface:** Provides a clean and intuitive interface for users to input their asset quantities and view their total BTC value.
-
 ---
 
 **Installation:**
@@ -23,7 +21,7 @@ The Binance BTC Converter is a tool designed to provide real-time conversion of 
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/binance-btc-converter.git
+   git clone https://github.com/benrandom/binance_btc_conv.git
    ```
 
 2. Navigate to the project directory:
@@ -35,8 +33,9 @@ The Binance BTC Converter is a tool designed to provide real-time conversion of 
 3. Install the required dependencies:
 
    ```
-   npm install
-   ```
+    pip install -r requirements.txt
+    
+    ```
 
 ---
 
@@ -60,14 +59,10 @@ The Binance BTC Converter is a tool designed to provide real-time conversion of 
 3. **Run the Application:**
 
    ```
-   npm start
+   python3 -m binance_btc_converter
    ```
 
-4. **Input Asset Quantities:**
-
-   Once the application is running, open your web browser and navigate to `http://localhost:3000`. Enter the quantities of your assets in the provided input fields.
-
-5. **View Total BTC Value:**
+4. **View Total BTC Value:**
 
    The application will automatically calculate and display the total BTC value of your assets.
 
@@ -75,7 +70,7 @@ The Binance BTC Converter is a tool designed to provide real-time conversion of 
 
 **Contributing:**
 
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or send an E-Mail to ben.random0@proton.me.
 
 ---
 
@@ -87,21 +82,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Disclaimer:**
 
-This project is for educational and informational purposes only. The creators are not responsible for any financial losses incurred while using this application. Use at your own risk.
-
+This project is for educational and informational purposes only.
 ---
 
 **Credits:**
 
-This project was created by [Your Name].
+This project was created by benrandom.
 
 ---
 
 **Contact:**
 
-For any inquiries, you can reach out to [Your Email Address].
+For any inquiries, you can reach out to ben.random0@proton.me.
 
 ---
 
 **Thank you for using the Binance BTC Converter!**
-```
